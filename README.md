@@ -1,6 +1,7 @@
-# App Name-> Travel App
+# Name-> Travel App
 
-
+# Description
+The Travel App is a React-based web application designed to help users manage their travel plans. It allows users to add, delete, and update travel elements, utilizing hooks like useState to manage the app's state efficiently. The app also employs the concept of lifting state up to handle data flow and updates between components.
 
 
 
