@@ -17,25 +17,25 @@ The Travel App is a React-based web application designed to help users manage th
 
 # Installation
 
-A- Clone the repository: git clone https://github.com/marwan5050/travelApp.git
-B- Navigate to the project folder: cd travelApp
-C- Install dependencies: npm install
+- A- Clone the repository: git clone https://github.com/marwan5050/travelApp.git
+- B- Navigate to the project folder: cd travelApp
+- C- Install dependencies: npm install
 
 
 # Usage
 
-A- Run the app locally: npm start
-B- Open your web browser and visit: http://localhost:3000
+- A- Run the app locally: npm start
+- B- Open your web browser and visit: http://localhost:3000
 
 
 # Contributing
 Iam welcome contributions to the Travel App. If you'd like to contribute, please follow these steps:
 
-A- Fork the repository.
-B- Create a new branch: git checkout -b feature/your-feature-name
-C- Implement your changes and commit them: git commit -m "Add your message here"
-D- Push your changes to the branch: git push origin feature/your-feature-name
-E- Create a pull request on the original repository.
+- A- Fork the repository.
+- B- Create a new branch: git checkout -b feature/your-feature-name
+- C- Implement your changes and commit them: git commit -m "Add your message here"
+- D- Push your changes to the branch: git push origin feature/your-feature-name
+- E- Create a pull request on the original repository.
 
 
 # License
