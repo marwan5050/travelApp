@@ -1,4 +1,4 @@
-# Name-> Travel App
+# Title -> Travel App
 
 # Description
 
