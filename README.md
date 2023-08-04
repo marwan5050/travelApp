@@ -35,8 +35,8 @@ The Travel App is a React-based web application designed to help users manage th
 
 # Technologies Used
 
-React.js: The JavaScript library used to build the user interface.
-React Hooks (useState): For handling component state and lifecycle events.
+- React.js: The JavaScript library used to build the user interface.
+- React Hooks (useState): For handling component state and lifecycle events.
 
 # Contributing
 
