@@ -1,9 +1,23 @@
 # Title -> Travel App
 
-# Description
+# Table of Contents
+- Introduction
+- Installation
+- Features
+- Usage
+- Technologies Used
+- Contributing
+- License
+
+# Introduction
 
 The Travel App is a React-based web application designed to help users manage their travel plans. It allows users to add, delete, and update travel elements, utilizing hooks like useState to manage the app's state efficiently. The app also employs the concept of lifting state up to handle data flow and updates between components.
 
+# Installation
+
+- A- Clone the repository: git clone https://github.com/marwan5050/travelApp.git
+- B- Navigate to the project folder: cd travelApp
+- C- Install dependencies: npm install
 
 # Features
 
@@ -14,21 +28,18 @@ The Travel App is a React-based web application designed to help users manage th
 - E- Utilize React hooks like useState to manage state.
 - F- Calculate The Number Of Elemnts That Have Been Packed.
 
-
-# Installation
-
-- A- Clone the repository: git clone https://github.com/marwan5050/travelApp.git
-- B- Navigate to the project folder: cd travelApp
-- C- Install dependencies: npm install
-
-
 # Usage
 
 - A- Run the app locally: npm start
 - B- Open your web browser and visit: http://localhost:3000
 
+# Technologies Used
+
+React.js: The JavaScript library used to build the user interface.
+React Hooks (useState): For handling component state and lifecycle events.
 
 # Contributing
+
 Iam welcome contributions to the Travel App. If you'd like to contribute, please follow these steps:
 
 - A- Fork the repository.
@@ -39,6 +50,7 @@ Iam welcome contributions to the Travel App. If you'd like to contribute, please
 
 
 # License
+
 The Travel App is open-source and available under the MIT License.
 
 
